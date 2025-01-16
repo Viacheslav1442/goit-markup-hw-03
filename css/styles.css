@@ -331,6 +331,7 @@
      text-transform: capitalize;
      color: #2E2F42;
      background-color: #F4F4FD;
+     margin-bottom: 72px;
 
  }
 
@@ -357,6 +358,7 @@
      list-style: none;
      padding: 0;
      margin: 0;
+     margin-bottom: 8px;
      background-color: #FFFFFF;
  }
 
@@ -366,6 +368,7 @@
      line-height: 1.2em;
      letter-spacing: 0.02em;
      color: #2E2F42;
+     margin-bottom: 8px;
  }
 
  .our-portfolio-text {
