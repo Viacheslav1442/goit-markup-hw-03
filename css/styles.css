@@ -151,11 +151,20 @@
  }
 
  .effective {
+     padding: 188px 0;
      background-color: #2E2F42;
+ }
+
+ .container {
+     max-width: 1200px;
+     margin: 0 auto;
  }
 
  .effective-title {
      font-family: 'Roboto', sans-serif;
+     max-width: 496px;
+     margin: 0 auto;
+     text-align: center;
      font-size: 56px;
      font-weight: 700;
      line-height: 1.07em;
@@ -166,6 +175,14 @@
  }
 
  .effective-btn {
+     display: block;
+     min-width: 169px;
+     height: 56px;
+     border: none;
+     background-color: var(--primary-color, #4d5ae5);
+     border-radius: 4px;
+     cursor: pointer;
+     margin: 20px auto;
      font-size: 16px;
      font-weight: 500;
      line-height: 1.5em;
