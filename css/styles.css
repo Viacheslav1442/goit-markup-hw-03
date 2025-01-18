@@ -32,6 +32,10 @@
      text-decoration: none;
  }
 
+ img {
+     display: block;
+ }
+
  /* common */
 
  .container {
@@ -45,9 +49,17 @@
      border-bottom: 1px solid #e7e9fc;
  }
 
+ .container {
+     width: 1158px;
+     max-width: 100%;
+     margin: 0 auto;
+     padding: 0 15px;
+ }
+
  .header-container {
      display: flex;
      align-items: center;
+     justify-content: space-between;
  }
 
  .header-nav {
@@ -137,53 +149,8 @@
      color: #404BBF;
  }
 
- .page-footer {
-     padding: 100px 0;
-     background-color: #2E2F42;
-     text-align: center;
- }
 
- .container {
-     max-width: 1200px;
-     margin: 0 auto;
-     padding: 0 16px;
-     display: flex;
-     flex-direction: column;
-     align-items: center;
- }
 
- .footer-logo {
-     display: inline-block;
-     margin-bottom: 16px;
-     font-family: "Raleway", sans-serif;
-     font-size: 24px;
-     font-weight: 700;
-     color: #2E2F42;
-     text-decoration: none;
- }
-
- .logo-footer-logo {
-     font-size: 18px;
-     color: #4D5AE5;
- }
-
- .footer-logo .logo-part {
-     color: #F4F4FD;
- }
-
- .footer-logo:hover {
-     color: #434455;
- }
-
- .footer-text {
-     max-width: 264px;
-     font-family: "Roboto",
-         sans-serif;
-     font-size: 16px;
-     font-weight: 400;
-     line-height: 1.5;
-     color: #434455;
- }
 
  .effective {
      padding: 188px 0;
@@ -411,5 +378,53 @@
      font-weight: 400;
      line-height: 1.5em;
      letter-spacing: 0.02em;
+     color: #434455;
+ }
+
+ .page-footer {
+     padding: 100px 0;
+     background-color: #2E2F42;
+     text-align: center;
+ }
+
+ .container {
+     max-width: 1200px;
+     margin: 0 auto;
+     padding: 0 16px;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+ }
+
+ .footer-logo {
+     display: inline-block;
+     margin-bottom: 16px;
+     font-family: "Raleway", sans-serif;
+     font-size: 24px;
+     font-weight: 700;
+     color: #2E2F42;
+     text-decoration: none;
+ }
+
+ .logo footer-logo {
+     font-size: 18px;
+     color: #4D5AE5;
+ }
+
+ .footer-logo .logo-part {
+     color: #F4F4FD;
+ }
+
+ .footer-logo:hover {
+     color: #434455;
+ }
+
+ .footer-text {
+     max-width: 264px;
+     font-family: "Roboto",
+         sans-serif;
+     font-size: 16px;
+     font-weight: 400;
+     line-height: 1.5;
      color: #434455;
  }
