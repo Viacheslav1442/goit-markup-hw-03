@@ -39,7 +39,7 @@
  /* common */
 
  .container {
-     max-width: 1470px;
+     max-width: 1158px;
      padding: 0 15px;
      margin: 0 auto;
  }
@@ -153,7 +153,8 @@
  }
 
  .container {
-     max-width: 1440px;
+     max-width: 1470px;
+     padding: 0 15px;
      margin: 0 auto;
  }
 
@@ -257,7 +258,8 @@
  }
 
  .container {
-     max-width: 1440px;
+     max-width: 1470px;
+     padding: 0 15px;
      margin: 0 auto;
  }
 
@@ -384,7 +386,7 @@
  }
 
  .container {
-     max-width: 1440px;
+     max-width: 1470px;
      margin: 0 auto;
      padding: 0 15px;
      flex-direction: column;
