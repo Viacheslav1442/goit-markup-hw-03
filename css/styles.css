@@ -233,7 +233,6 @@
 
  .advantages-item {
      flex-basis: calc((100% - 3 * 24px) / 4);
-     text-align: center;
      display: flex;
      flex-direction: column;
      justify-content: space-between;
@@ -269,7 +268,7 @@
  }
 
  .container {
-     max-width: 1470px;
+     width: 1158px;
      padding: 0 15px;
      margin: 0 auto;
  }
