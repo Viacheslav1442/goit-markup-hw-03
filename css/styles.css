@@ -51,6 +51,7 @@
 
 
  .header-container {
+     width: 1158px;
      display: flex;
      align-items: center;
      justify-content: space-between;
