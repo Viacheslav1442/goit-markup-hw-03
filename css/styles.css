@@ -269,8 +269,6 @@
 
  .container {
      width: 1158px;
-     padding: 0 15px;
-     margin: 0 auto;
  }
 
  .our-team-title {
@@ -405,10 +403,12 @@
      display: inline-block;
      margin-bottom: 16px;
      font-family: "Raleway", sans-serif;
-     font-size: 24px;
+     font-size: 16px;
      font-weight: 700;
      color: #4D5AE5;
      text-decoration: none;
+     width: 115px;
+     height: 24px;
  }
 
  .logo footer-logo {
