@@ -51,7 +51,7 @@
 
 
  .header-container {
-     width: 1158px;
+     width: 1440px;
      display: flex;
      align-items: center;
      justify-content: space-between;
@@ -161,6 +161,7 @@
  }
 
  .effective-title {
+     margin-bottom: 8px;
      font-family: 'Roboto', sans-serif;
      max-width: 496px;
      margin: 0 auto;
@@ -171,7 +172,6 @@
      letter-spacing: 0.02em;
      text-align: center;
      color: #FFFFFF;
-     ;
  }
 
  .effective-btn {
@@ -402,8 +402,7 @@
      font-weight: 700;
      color: #4D5AE5;
      text-decoration: none;
-     width: 115px;
-     height: 24px;
+
  }
 
  .logo footer-logo {
