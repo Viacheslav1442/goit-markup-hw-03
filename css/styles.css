@@ -51,7 +51,7 @@ img {
 
 
 .header-container {
-    max-width: 1440px;
+    max-width: 1158px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -155,7 +155,7 @@ img {
     height: 600px;
 }
 
-.container-hero {
+.container {
     max-width: 1470px;
     padding: 0 15px;
     margin: 0 auto;
@@ -206,7 +206,7 @@ img {
     padding: 120px 0;
 }
 
-.container-advantages {
+.container {
     max-width: 1440px;
     margin: 0 auto;
 }
@@ -264,7 +264,7 @@ img {
     height: 732px;
 }
 
-.container-team {
+.container {
     width: 1158px;
     justify-items: center;
     margin: auto;
@@ -352,7 +352,7 @@ img {
     margin-right: 0;
 }
 
-.container-portfolio {
+.container {
     width: 1158px;
     margin: auto;
 }
@@ -397,7 +397,7 @@ img {
     background-color: #2E2F42;
 }
 
-.container-footer {
+.container {
     max-width: 1470px;
     margin: 0 auto;
     padding: 0 15px;
