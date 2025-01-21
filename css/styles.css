@@ -229,13 +229,12 @@ img {
     display: flex;
     gap: 24px;
     padding: 24px;
-    margin: 0;
     list-style: none;
 }
 
 
 .advantages-item {
-    width: calc((100% - 3 * 24px) / 4);
+    flex-basis: calc((100% - 3 * 24px) / 4);
 }
 
 
