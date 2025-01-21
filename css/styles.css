@@ -149,11 +149,15 @@
 
 
  .hero-main {
+     display: flex;
+     justify-items: center;
      padding: 188px 0;
      background-color: #2E2F42;
+     height: 600px;
+     margin-bottom: 48px;
  }
 
- .container {
+ .container-hero {
      max-width: 1470px;
      padding: 0 15px;
      margin: 0 auto;
@@ -204,7 +208,7 @@
      padding: 120px 0;
  }
 
- .container {
+ .container-advantages {
      max-width: 1440px;
      margin: 0 auto;
  }
@@ -257,13 +261,14 @@
  }
 
  .our-team {
-     padding: 120px 0;
      background-color: #F4F4FD;
      text-align: center;
  }
 
- .container {
+ .container-team {
      width: 1158px;
+     justify-items: center;
+     margin: auto;
  }
 
  .our-team-title {
@@ -388,7 +393,7 @@
      background-color: #2E2F42;
  }
 
- .container {
+ .container-footer {
      max-width: 1470px;
      margin: 0 auto;
      padding: 0 15px;
