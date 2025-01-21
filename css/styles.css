@@ -210,7 +210,6 @@
  .container-advantages {
      max-width: 1440px;
      margin: 0 auto;
-     padding: 24px;
  }
 
  .visually-hidden {
@@ -263,6 +262,7 @@
  .our-team {
      background-color: #F4F4FD;
      text-align: center;
+     height: 732px;
  }
 
  .container-team {
