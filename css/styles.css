@@ -186,9 +186,7 @@ img {
     background-color: var(--primary-color, #4d5ae5);
     border-radius: 4px;
     cursor: pointer;
-    margin-top: 48px;
-    margin-right: 48px;
-    margin-left: 48px;
+    margin: auto 0;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5em;
@@ -337,7 +335,7 @@ img {
     text-align: center;
     text-transform: capitalize;
     color: #2E2F42;
-    background-color: #F4F4FD;
+    background: none;
     margin-bottom: 72px;
 
 }
