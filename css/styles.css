@@ -186,7 +186,10 @@ img {
     background-color: var(--primary-color, #4d5ae5);
     border-radius: 4px;
     cursor: pointer;
-    margin: auto 0;
+    margin-top: 48px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5em;
